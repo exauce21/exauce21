@@ -18,7 +18,7 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exauce21&show_icons=true&locale=en&layout=compact" alt="exauce21" /></p>
 </div>
-
+</br>
 <div>
   <p style="text-align: center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exauce21&show_icons=true&locale=en" alt="exauce21" /></p>
 </div>
