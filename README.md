@@ -10,3 +10,7 @@
     <a href="https://www.behance.net/exauceyanga" target="_blank">behance</a>
   </samp>
 </p>
+
+<p align="center">
+I'm a software engineer who is passionate and graphic designer. Some technologies I enjoy working with include Flutter, ReactJS, Spring Boot and Symfony.
+</p>
