@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="#" target="_blank">me</a> .
+    <a href="https://exauce21.github.io/yexauceportfolio/" target="_blank">me</a> .
     <a href="#" target="_blank">blog</a> .
     <a href="#" target="_blank">projects</a> .
     <a href="#" target="_blank">talks</a> .
