@@ -4,7 +4,6 @@
     <a href="https://yexauce.me/projects/" target="_blank">My Projects</a> .
     <a href="https://www.linkedin.com/in/exauceyanga/" target="_blank">Linkedin</a> .
     <a href="https://www.behance.net/exauceyanga" target="_blank">Behance</a> .
-    <a href="#" target="_blank">CV</a> .
     <a href="mailto:yexauce@gmail.com" target="_blank">Mail</a>
   </samp>
 </p>
